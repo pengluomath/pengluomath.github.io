@@ -34,5 +34,5 @@ author_profile: true
 
 ## Teaching at SDU
 
-  - Measure theory and probability, Fall 2012
+  - Measure Theory and Probability, Fall 2012
 
