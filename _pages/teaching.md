@@ -23,9 +23,9 @@ author_profile: true
   
   - Deep Learning, Spring 2021
 
-  - Backward stochastic differential equations (joint with S. Drapeau), Spring 2016
+  - Backward Stochastic Differential Equations (joint with S. Drapeau), Spring 2016
 
-  - Stochastic processes (joint with S. Drapeau), Fall 2015
+  - Stochastic Processes (joint with S. Drapeau), Fall 2015
   
   
 ## Teaching at UW
