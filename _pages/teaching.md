@@ -36,10 +36,3 @@ author_profile: true
 
   - Measure theory and probability, Fall 2012
 
-[//]: # ({% include base_path %})
-
-[//]: # ({% for post in site.teaching reversed %})
-
-[//]: #   ({% include archive-single.html %})
-
-[//]: # ({% endfor %})
