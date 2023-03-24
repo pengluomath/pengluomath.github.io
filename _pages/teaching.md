@@ -9,10 +9,6 @@ author_profile: true
   
   - Probability and Statistics, Fall 2022
   
-  - Probability Limit Theory, Fall 2022
-  
-  - Stochastic Analysis, Fall 2022
-  
   - Basic Mathemtaics in Quantitative Finance, Fall 2022
   
   - Probability and Statistics, Spring 2022
