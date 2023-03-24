@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+- Yuyang Chen and **Peng Luo**. Existence of global solutions for multi-dimensional coupled FBSDEs with diagonally quadratic generators. Journal of Mathematical Analysis and Applications, 522 (2023), no. 1, Paper No. 126948, 15 pp.
+
+- **Peng Luo**, Olivier Menoukeu-Pamen and Ludovic Tangpi. Strong solutions of forward–backward stochastic differential equations with measurable coefficients. Stochastic Processes and their Applications, 144 (2022), 1–22.
 
 - **P. Luo**. Comparison theorem for diagonally quadratic BSDEs. Discrete& Continuous
 Dynamical Systems - Series A, 2021, 41 (6) : 2543-2557.
